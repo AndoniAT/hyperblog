@@ -15,5 +15,6 @@ ibi
 - gfbfgbfgbf
 - Creado por el increible Andoni
 - Incluye ejemplos en Windows, Linus y Mac
+- Disponible para todas las edades
 
 wlaowdnowadionawoidnoiawnodaowd 

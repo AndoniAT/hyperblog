@@ -14,6 +14,6 @@ ibi
 - hjnhvgnvh
 - gfbfgbfgbf
 - Creado por el increible Andoni
-
+- Incluye ejemplos en Windows, Linus y Mac
 
 wlaowdnowadionawoidnoiawnodaowd 
